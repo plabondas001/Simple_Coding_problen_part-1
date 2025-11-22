@@ -22,3 +22,16 @@ function feetToInch(feet){
 
 let inch = feetToInch(5);
 console.log(inch);
+
+
+
+
+// kg to gr 
+
+function kgToGr(kg){
+    let gr = kg * 1000;
+    return gr;
+}
+
+let gr = kgToGr(5);
+console.log(gr);
