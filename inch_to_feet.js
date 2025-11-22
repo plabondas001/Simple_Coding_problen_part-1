@@ -35,3 +35,16 @@ function kgToGr(kg){
 
 let gr = kgToGr(5);
 console.log(gr);
+
+
+
+// gr to kg 
+
+
+function grToKg(gr){
+    let kg = gr * 0.001;
+    return kg;
+}
+
+let kg = grToKg(1500);
+console.log(kg);
