@@ -1,6 +1,5 @@
 // inch to feet 
 
-
 function inchToFeet(inch){
     let feet = inch * 0.0833333;
     return feet;
@@ -47,4 +46,5 @@ function grToKg(gr){
 }
 
 let kg = grToKg(1500);
-console.log(kg);
+console.log(kg);export let year = isLearYear('thsdth');
+
